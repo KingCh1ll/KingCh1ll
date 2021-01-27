@@ -7,7 +7,7 @@
 
 #### 👥Socials👥
 <div align="center">
-  <a href="https://discord.gg/">
+  <a href="https://discord.gg/5DzTfHs7dy">
     <img src="https://user-images.githubusercontent.com/77991729/106045706-4d752c00-60af-11eb-9180-4a1676fe19bd.png" alt="Discord" width="80"/>
   </a>
  <!-- Copy Paste Above for more, Future King! -->
