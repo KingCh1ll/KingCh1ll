@@ -1,10 +1,12 @@
 # KingCh1ll
 ### Roblox Developer, Discord Bot Creator & Digital Artist
-[<img align="center" alt="KingCh1ll | Roblox" width="22px" src="https://user-images.githubusercontent.com/77991729/109535595-c0950800-7a8a-11eb-923c-e08945948f99.png"/>][roblox]
-[<img align="center" alt="Ch1ll Space | Discord Server" width="22px" src="https://user-images.githubusercontent.com/77991729/106045706-4d752c00-60af-11eb-9180-4a1676fe19bd.png"/>][discord]
 
 ## 📋Information📋
 My name's KingCh1ll, but you can call me King. I'm a Roblox & Discord bot developer for fun!
+
+### Socials
+[<img align="center" alt="KingCh1ll | Roblox" width="22px" src="https://user-images.githubusercontent.com/77991729/109535595-c0950800-7a8a-11eb-923c-e08945948f99.png"/>][roblox]
+[<img align="center" alt="Ch1ll Space | Discord Server" width="22px" src="https://user-images.githubusercontent.com/77991729/106045706-4d752c00-60af-11eb-9180-4a1676fe19bd.png"/>][discord]
 
 ### Launguges
 [<img align="center" alt="Lua" width="26px" src="https://imgur.com/RjTCw2o.png"/>][Lua]
