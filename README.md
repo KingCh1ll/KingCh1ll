@@ -22,7 +22,11 @@ My name's KingCh1ll, but you can call me King. I'm a Roblox & Discord bot develo
 [![Discord](https://discord.c99.nl/widget/theme-2/571811686617710592.png)][DiscordBio]
 
 ### GitHub
-![KingCh1ll's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KingCh1ll&show_icons=true&count_private=true&theme=algolia)
+## GitHub Coding Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KingCh1ll&show_icons=true&count_private=true&theme=algolia)
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KingCh1ll&layout=compact)
 
 <!-- Varibles -->
 [discord]: https://discord.gg/5DzTfHs7dy
