@@ -1,3 +1,5 @@
+![Metrics](https://github.com/kingch1ll/kingch1ll/blob/kingch1ll/github-metrics.svg)
+
 # KingCh1ll
 ### Roblox Developer, Discord Bot Creator & Digital Artist
 
