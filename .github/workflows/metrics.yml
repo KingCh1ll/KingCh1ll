@@ -2,9 +2,8 @@
 
 name: Metrics
 on:
-  # Lines below let you run workflow manually and on each commit (optional)
-  workflow_dispatch:
-  push: {branches: ["KingCh1ll"]}
+  # Lines below let you run workflow manually
+  - workflow_dispatch
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
