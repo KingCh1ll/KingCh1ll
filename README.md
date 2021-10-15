@@ -1,4 +1,3 @@
-<br>
 ![Metrics](https://github.com/KingCh1ll/KingCh1ll/blob/KingCh1ll/github-metrics.svg)
 <br>
 <a href="https://dsc.bio/kingch1ll">
