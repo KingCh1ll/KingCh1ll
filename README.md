@@ -2,7 +2,6 @@
 
 ## My Name's KingCh1ll!
 `🚀` Full Stack Developer<br>
-`🎂` 13 Years Old<br>
 
 ## Check out my Sites
 `📋` [Portfolio](https://www.ch1ll.tk).<br>
