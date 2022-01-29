@@ -31,6 +31,7 @@
   </tr>
 </p>
 
+<!-- 
 <p align="center">
   <tr>
     <td style="padding: 0; width=50%" align="center">
@@ -42,4 +43,4 @@
   </tr>
 </p>
 
-<!-- ![Metrics](https://github.com/KingCh1ll/KingCh1ll/blob/KingCh1ll/github-metrics.svg) -->
+![Metrics](https://github.com/KingCh1ll/KingCh1ll/blob/KingCh1ll/github-metrics.svg) -->
