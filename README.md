@@ -4,13 +4,26 @@
   </a>
 </p>
 
-<p align="center">Hi, I'm <strong>KingCh1ll</strong>! I'm a passionate NodeJS <strong>Software Engineer</strong>, living in the <strong>United States</strong>.</p>
+<h2 align="center" style="font-weight:600;color:rgba(255, 255, 255, 1);">👋 Hi there!</h1>
+<p>I'm <strong>KingCh1ll</strong>! I'm a passionate NodeJS <strong>Software Engineer</strong>, living in the <strong>United States</strong>. I'm a <strong>beginner guitarist</strong>, and I like to play in my free time (when I'm not coding).</p>
+<p>Currently, <strong>my main project is <a href="https://www.sparkv.tk/">sparkv.tk</a></strong>. SparkV is a modern and multipurpose bot with Music, Memes, Currency, Leveling, Utility commands and more.</p>
+<h3 style="font-weight:600;color:rgba(255, 255, 255, 1);">🪄 Frameworks/Languages</h2>
+<div style="font-size:17px;margin-bottom:1em">
+  <li>JavaScript</li>
+  <li>NodeJS</li>
+  <li>Express</li>
+  <li>NodeJS</li>
+  <li>Lua (Roblox Edition)</li>
+  <li>HTML, CSS & SCSS</li>
+</div>
+<h3 style="font-weight:600;color:rgba(255, 255, 255, 1);">🌐 Projects</h2>
+<div style="font-size:17px;margin-bottom:1em">
+  <li>SparkV</li>
+</div>
+<h3 style="font-weight:600;color:rgba(255, 255, 255, 1);">📇 Contact</h2>
+<p>If you want to contact me, you can join my <a href="https://discord.gg/PPtzT8Mu3h">Discord server</a>.</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kingch1ll&style=flat-square&color=blue" alt="KingCh1ll's Profile Views"/>
-</p>
-
-<p align="center">
+<p>
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=KingCh1ll&theme=tokyonight_duo&hide_border=true&ring=4F8CC9&currStreakLabel=FFFFFF&sideNums=4F8CC9&dates=979797&sideLabels=FFFFFF&currStreakNum=FFFFFF&border=DD2727&stroke=00000000&background=00000000&fire=FF7600" />
@@ -18,13 +31,10 @@
   </tr>
 </p>
 
-<p align="center">
-  <a href="https://discord.com/users/571811686617710592">
-    <img src="https://discord.c99.nl/widget/theme-4/571811686617710592.png" alt="KingCh1ll's Discord Profile"/>
-  </a>
-</p>
+<p><a href="https://discord.com/users/571811686617710592"><img src="https://discord.c99.nl/widget/theme-4/571811686617710592.png" alt="KingCh1ll's Discord Profile"/</a></p>
+<p><img src="https://komarev.com/ghpvc/?username=kingch1ll&style=flat-square&color=blue" alt="KingCh1ll's Profile Views"/></p>
 
-<!-- 
+<!--
 <p align="center">
   <tr>
     <td style="padding: 0; width=50%" align="center">
