@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://www.spark.tk/">
-    <img src="https://github.com/KingCh1ll/Ch1llSite/blob/master/public/images/banner.gif" width="500px" />
+  <a href="https://www.ch1ll.tk/">
+    <img src="https://www.ch1ll.tk/images/banner.gif" width="500px" />
   </a>
 </p>
 
