@@ -1,40 +1,33 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.ch1ll.tk/">
     <img src="https://github.com/KingCh1ll/Ch1llSite/blob/master/public/images/banner.gif" width="500px" />
   </a>
-</p>
+</p> -->
 
-<h2 align="center" style="font-weight:600;color:rgba(255, 255, 255, 1);">👋 Hi there!</h1>
-<p>I'm <strong>KingCh1ll</strong>! I'm a passionate NodeJS <strong>Software Engineer</strong>, living in the <strong>United States</strong>. I'm a <strong>beginner guitarist</strong>, and I like to play in my free time (when I'm not coding).</p>
-<p>Currently, <strong>my main project is <a href="https://www.sparkv.tk/">sparkv.tk</a></strong>. SparkV is a modern and multipurpose bot with Music, Memes, Currency, Leveling, Utility commands and more.</p>
-<h3 style="font-weight:600;color:rgba(255, 255, 255, 1);">🪄 Frameworks/Languages</h2>
-<div style="font-size:17px;margin-bottom:1em">
-  <li>JavaScript</li>
-  <li>NodeJS</li>
-  <li>Express</li>
-  <li>NodeJS</li>
-  <li>Lua (Roblox Edition)</li>
-  <li>HTML, CSS & SCSS</li>
+# 👋 Hi there!
+Hi, I'm KingCh1ll! I'm a passionate NodeJS <strong>Software Engineer</strong>, living in the <strong>United States</strong>. I love making <!-- --><strong>websites</strong> and <!-- --><strong>Discord bots</strong>. I also used to make games on the platform <!-- --><a href="https://roblox.com">Roblox</a>. In my free time I like to code, chat with friends, play my guitar, or go on runs.<!-- --></p>
+
+## 🌐 Projects
+- 💼 <a href="https://github.com/KingCh1ll/Ch1llSite">Ch1llSite</a> - A NextJS portfolio template, made to impress!
+- 🤖 <a href="https://www.sparkv.tk/">SparkV</a> - A powerful Discord bot packed with everything you need to make your Discord server great, and with stunning ui!
+
+## 📊 Stats
+<div align="center">
+
+  [![](https://komarev.com/ghpvc/?username=kingch1ll&style=flat-square&color=blue)](https://komarev.com/)
+
+  [![Discord Profile](https://discord.c99.nl/widget/theme-4/571811686617710592.png)](https://discord.com/users/571811686617710592)
+
+  [![Streak](https://github-readme-streak-stats.herokuapp.com?user=KingCh1ll&theme=tokyonight_duo&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 </div>
-<h3 style="font-weight:600;color:rgba(255, 255, 255, 1);">🌐 Projects</h2>
-<div style="font-size:17px;margin-bottom:1em">
-  <li>SparkV</li>
+
+<div align="right">
+  <a href="https://www.ch1ll.tk/">Portfolio</a> | <a href="https://discord.gg/PPtzT8Mu3h">Discord server</a>
 </div>
-<h3 style="font-weight:600;color:rgba(255, 255, 255, 1);">📇 Contact</h2>
-<p>If you want to contact me, you can join my <a href="https://discord.gg/PPtzT8Mu3h">Discord server</a>.</p>
-
-<p>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=KingCh1ll&theme=tokyonight_duo&hide_border=true&ring=4F8CC9&currStreakLabel=FFFFFF&sideNums=4F8CC9&dates=979797&sideLabels=FFFFFF&currStreakNum=FFFFFF&border=DD2727&stroke=00000000&background=00000000&fire=FF7600" />
-    </td>
-  </tr>
-</p>
-
-<p><a href="https://discord.com/users/571811686617710592"><img src="https://discord.c99.nl/widget/theme-4/571811686617710592.png" alt="KingCh1ll's Discord Profile"/</a></p>
-<p><img src="https://komarev.com/ghpvc/?username=kingch1ll&style=flat-square&color=blue" alt="KingCh1ll's Profile Views"/></p>
 
 <!--
+user=KingCh1ll&theme=tokyonight_duo&hide_border=true&ring=4F8CC9&currStreakLabel=FFFFFF&sideNums=4F8CC9&dates=979797&sideLabels=FFFFFF&currStreakNum=FFFFFF&border=DD2727&stroke=00000000&background=00000000&fire=FF7600
+
 <p align="center">
   <tr>
     <td style="padding: 0; width=50%" align="center">
