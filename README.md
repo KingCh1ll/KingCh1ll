@@ -5,24 +5,25 @@
 </p> -->
 
 # 👋 Hi there!
-Hi, I'm KingCh1ll! I'm a passionate NodeJS <strong>Software Engineer</strong>, living in the <strong>United States</strong>. I love making <!-- --><strong>websites</strong> and <!-- --><strong>Discord bots</strong>. I also used to make games on the platform <!-- --><a href="https://roblox.com">Roblox</a>. In my free time I like to code, chat with friends, play my guitar, or go on runs.<!-- --></p>
+Hi, I'm Ch1llDev (formally KingCh1ll). I'm a NodeJS <strong>Software Engineer</strong>, living in the <strong>United States</strong>. I love making <!-- --><strong>websites</strong> and <!-- --><strong>Discord bots</strong>. I also used to make games on the platform <!-- --><a href="https://roblox.com">Roblox</a>. In my free time, I like to code and/or chat with friends.<!-- --></p>
 
 ## 🌐 Projects
-- 💼 <a href="https://github.com/KingCh1ll/Ch1llSite">Ch1llSite</a> - A NextJS portfolio template, made to impress!
-- 🤖 <a href="https://www.sparkv.tk/">SparkV</a> - A powerful Discord bot packed with everything you need to make your Discord server great, and with stunning ui!
+- 💼 <a href="https://github.com/KingCh1ll/landing-page">Landing Page</a> - A NextJS portfolio template, made to impress!
+- 🤖 <a href="https://sparkv.tk/">SparkV</a> - A powerful Discord bot packed with everything you need to make your Discord server great, and with stunning ui!
+- 📢 <a href="https://disping.tk/">DisPing</a> - Start integrating your socials to Discord. The easy way. That's DisPing.
 
 ## 📊 Stats
 <div align="center">
 
-  [![](https://komarev.com/ghpvc/?username=kingch1ll&style=flat-square&color=blue)](https://komarev.com/)
+  [![](https://komarev.com/ghpvc/?username=ch1lldev&style=flat-square&color=blue)](https://komarev.com/)
 
   [![Discord Profile](https://discord.c99.nl/widget/theme-4/571811686617710592.png)](https://discord.com/users/571811686617710592)
 
-  [![Streak](https://github-readme-streak-stats.herokuapp.com?user=KingCh1ll&theme=tokyonight_duo&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+  [![Streak](https://github-readme-streak-stats.herokuapp.com?user=ch1lldev&theme=tokyonight_duo&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 </div>
 
 <div align="right">
-  <a href="https://www.ch1ll.tk/">Portfolio</a> | <a href="https://discord.gg/PPtzT8Mu3h">Discord server</a>
+  <a href="https://ch1ll.dev/">Portfolio</a> | <a href="https://discord.gg/PPtzT8Mu3h">Discord server</a>
 </div>
 
 <!--
