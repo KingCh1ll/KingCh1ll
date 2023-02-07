@@ -12,6 +12,9 @@ Hi, I'm Ch1llDev (formally KingCh1ll). I'm a NodeJS <strong>Software Engineer</s
 - 🤖 <a href="https://sparkv.tk/">SparkV</a> - A powerful Discord bot packed with everything you need to make your Discord server great, and with stunning ui!
 - 📢 <a href="https://disping.tk/">DisPing</a> - Start integrating your socials to Discord. The easy way. That's DisPing.
 
+## 💪 Tools & Skills
+<img src="https://skillicons.dev/icons?perline=9&i=nodejs,bash,ts,js,html,css,bootstrap,py,lua,react,md,blender,cloudflare,discord,bots,docker,electron,express,figma,git,github,githubactions,heroku,html,js,lua,,py,raspberrypi,react,redis,sass,stackoverflow,ts,vscode,twitter" />
+
 ## 📊 Stats
 <div align="center">
 
@@ -19,7 +22,7 @@ Hi, I'm Ch1llDev (formally KingCh1ll). I'm a NodeJS <strong>Software Engineer</s
 
   [![Discord Profile](https://discord.c99.nl/widget/theme-4/571811686617710592.png)](https://discord.com/users/571811686617710592)
 
-  [![Streak](https://github-readme-streak-stats.herokuapp.com?user=ch1lldev&theme=tokyonight_duo&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+  [![Streak](https://github-readme-streak-stats.herokuapp.com?user=kingch1ll&theme=tokyonight_duo&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 </div>
 
 <div align="right">
