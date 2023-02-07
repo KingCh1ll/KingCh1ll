@@ -15,7 +15,7 @@ Hi, I'm Ch1llDev (formally KingCh1ll). I'm a NodeJS <strong>Software Engineer</s
 ## 📊 Stats
 <div align="center">
 
-  [![](https://komarev.com/ghpvc/?username=ch1lldev&style=flat-square&color=blue)](https://komarev.com/)
+  [![](https://komarev.com/ghpvc/?username=KingCh1ll&style=flat-square&color=blue)](https://komarev.com/)
 
   [![Discord Profile](https://discord.c99.nl/widget/theme-4/571811686617710592.png)](https://discord.com/users/571811686617710592)
 
