@@ -1,9 +1,3 @@
-<!-- <p align="center">
-  <a href="https://www.ch1ll.tk/">
-    <img src="https://github.com/KingCh1ll/Ch1llSite/blob/master/public/images/banner.gif" width="500px" />
-  </a>
-</p> -->
-
 # 👋 Hi there!
 Hi, I'm Ch1llDev (formally KingCh1ll). I'm a NodeJS <strong>Software Engineer</strong>, living in the <strong>United States</strong>. I love making <!-- --><strong>websites</strong> and <!-- --><strong>Discord bots</strong>. I also used to make games on the platform <!-- --><a href="https://roblox.com">Roblox</a>. In my free time, I like to code and/or chat with friends.<!-- --></p>
 
