@@ -1,5 +1,7 @@
 # 👋 Hi there!
-Hi, I'm Ch1llDev (formally KingCh1ll). I'm a NodeJS <strong>Software Engineer</strong>, living in the <strong>United States</strong>. I love making <!-- --><strong>websites</strong> and <!-- --><strong>Discord bots</strong>. I also used to make games on the platform <!-- --><a href="https://roblox.com">Roblox</a>. In my free time, I like to code and/or chat with friends.<!-- --></p>
+Hi, I'm Ch1llDev (formally KingCh1ll). I'm a NodeJS <strong>Software Engineer</strong>, living in the <strong>United States</strong>. I love making <strong>websites</strong>, <strong>Discord bots</strong> and exploring machine learning. I also used to make games on the platform <a href="https://roblox.com">Roblox</a>. In my free time, I like to code and chat with friends.</p>
+
+[![](https://komarev.com/ghpvc/?username=KingCh1ll&style=flat-square&color=blue)](https://komarev.com/)
 
 ## 🌐 Projects
 - 💼 <a href="https://github.com/KingCh1ll/landing-page">Landing Page</a> - A NextJS portfolio template, made to impress!
@@ -7,13 +9,10 @@ Hi, I'm Ch1llDev (formally KingCh1ll). I'm a NodeJS <strong>Software Engineer</s
 - 📢 <a href="https://disping.tk/">DisPing</a> - Start integrating your socials to Discord. The easy way. That's DisPing.
 
 ## 💪 Tools & Skills
-<img src="https://skillicons.dev/icons?perline=9&i=nodejs,bash,ts,js,html,css,bootstrap,py,lua,react,md,blender,cloudflare,discord,bots,docker,electron,express,figma,git,github,githubactions,heroku,html,js,lua,,py,raspberrypi,react,redis,sass,stackoverflow,ts,vscode,twitter" />
+<img src="https://skillicons.dev/icons?perline=16&i=js,ts,html,css,sass,bootstrap,electron,vscode,lua,nodejs,py,bash,react,linux,express,cloudflare" />
 
 ## 📊 Stats
 <div align="center">
-
-  [![](https://komarev.com/ghpvc/?username=KingCh1ll&style=flat-square&color=blue)](https://komarev.com/)
-
   [![Discord Profile](https://ch1ll.dev/api/generateCard?id=571811686617710592)](https://discord.com/users/571811686617710592)
 
   [![Streak](https://github-readme-streak-stats.herokuapp.com?user=kingch1ll&theme=tokyonight_duo&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
