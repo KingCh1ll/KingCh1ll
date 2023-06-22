@@ -7,6 +7,7 @@ Hi, I'm Ch1llDev (formally KingCh1ll). I'm a NodeJS <strong>Software Engineer</s
 - 💼 <a href="https://github.com/KingCh1ll/landing-page">Landing Page</a> - A NextJS portfolio template, made to impress!
 - 🤖 <a href="https://sparkv.tk/">SparkV</a> - A powerful Discord bot packed with everything you need to make your Discord server great, and with stunning ui!
 - 📢 <a href="https://disping.tk/">DisPing</a> - Start integrating your socials to Discord. The easy way. That's DisPing.
+...<a href="https://ch1ll.dev/#projects">And more</a>!
 
 ## 💪 Tools & Skills
 <img src="https://skillicons.dev/icons?perline=16&i=js,ts,html,css,sass,bootstrap,electron,vscode,lua,nodejs,py,bash,react,linux,express,cloudflare" />
