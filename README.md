@@ -18,7 +18,9 @@ Hi, I'm Ch1llDev (formally KingCh1ll). I'm a NodeJS <strong>Software Engineer</s
   
   [![Discord Profile](https://ch1ll.dev/api/generateCard?id=571811686617710592)](https://discord.com/users/571811686617710592)
 
-  [![Streak](https://github-readme-streak-stats.herokuapp.com?user=kingch1ll&theme=tokyonight_duo&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+  [![Streak](https://github-readme-streak-stats.herokuapp.com?user=kingch1ll&theme=tokyonight_duo&hide_border=true)](https://github.com/KingCh1ll)
+
+  [![Stats](https://stats.ch1ll.dev/api?username=KingCh1ll&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=f04848&hide_border=true/)](https://github.com/KingCh1ll)
 </div>
 
 <div align="right">
