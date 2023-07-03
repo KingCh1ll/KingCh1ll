@@ -24,7 +24,7 @@ Hi, I'm Ch1llDev (formally KingCh1ll). I'm a NodeJS <strong>Software Engineer</s
 </div>
 
 <div align="right">
-  <a href="https://ch1ll.dev/">Portfolio</a> | <a href="https://discord.gg/PPtzT8Mu3h">Discord server</a>
+  <a href="https://ch1ll.dev/">Ch1ll.dev</a> | <a href="https://discord.gg/PPtzT8Mu3h">Discord server</a>
 </div>
 
 <!--
