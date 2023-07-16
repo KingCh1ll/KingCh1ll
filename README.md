@@ -1,5 +1,5 @@
 # 👋 Hi there!
-Hi, I'm Ch1llDev (formally KingCh1ll). I'm a NodeJS <strong>Software Engineer</strong>, living in the <strong>United States</strong>. I love making <strong>websites</strong>, <strong>Discord bots</strong> and exploring machine learning. I also used to make games on the platform <a href="https://roblox.com">Roblox</a>. In my free time, I like to code and chat with friends.</p>
+Hi, I'm Ch1llDev (formally KingCh1ll). I'm a <strong>Software Engineer</strong>, living in the <strong>United States</strong>. I love making <strong>websites</strong>, <strong>Discord bots</strong> and exploring machine learning. I also used to make games on the platform <a href="https://roblox.com">Roblox</a>. In my free time, I like to code and chat with friends.</p>
 
 [![](https://komarev.com/ghpvc/?username=KingCh1ll&style=flat-square&color=blue)](https://komarev.com/)
 
