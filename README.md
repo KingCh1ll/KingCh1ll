@@ -5,7 +5,7 @@ Hi, I'm Ch1llDev (formally KingCh1ll). I'm a <strong>Software Engineer</strong>,
 
 ## 🌐 Projects
 - 💼 <a href="https://github.com/KingCh1ll/landing-page">Landing Page</a> - A NextJS portfolio template, made to impress!
-- 📢 <a href="https://disping.tk/">DisPing</a> - Start integrating your socials to Discord. The easy way. That's DisPing.
+- 📢 <a href="https://disping.xyz/">DisPing</a> - Start integrating your socials to Discord. The easy way. That's DisPing.
 - 🎤 <a href="https://github.com/KingCh1ll/scribecord">Scribecord</a> - An easy-to-use text-to-speech, speech-to-text, and recording bot for Discord. And open sourced!
 - 🤖 <a href="https://sparkv.tk/">SparkV</a> - A powerful Discord bot packed with everything you need to make your Discord server great, and with stunning ui!
 
