@@ -19,7 +19,7 @@ Hi, I'm Ch1llDev (formally KingCh1ll). I'm a <strong>Software Engineer</strong>,
 ## 📊 Stats
 <div align="center">
   
-  [![Discord Profile](https://ch1ll.dev/api/generateCard?id=571811686617710592)](https://discord.com/users/571811686617710592)
+  [![Discord Profile](https://ch1ll.dev/api/card?id=571811686617710592)](https://discord.com/users/571811686617710592)
 
   [![Streak](https://github-readme-streak-stats.herokuapp.com?user=kingch1ll&theme=tokyonight_duo&hide_border=true)](https://github.com/KingCh1ll)
 
