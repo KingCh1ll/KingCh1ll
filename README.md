@@ -1,19 +1,19 @@
 # 👋 Hi there!
-Hi, I'm Ch1llDev (formally KingCh1ll). I'm a <strong>Software Engineer</strong>, living in the <strong>United States</strong>. I love making <strong>websites</strong>, <strong>Discord bots</strong> and exploring machine learning. I also used to make games on the platform <a href="https://roblox.com">Roblox</a>. In my free time, I like to code and chat with friends.</p>
+Hi, I'm ByteSwiper (formally KingCh1ll). I'm a <strong>Software Engineer</strong>, living in the <strong>United States</strong>. I love making <strong>websites</strong>, <strong>Discord bots</strong> and exploring machine learning. I also used to make games on the platform <a href="https://roblox.com">Roblox</a>. In my free time, I like to code and chat with friends.</p>
 
 [![](https://komarev.com/ghpvc/?username=KingCh1ll&style=flat-square&color=blue)](https://komarev.com/)
 
 ## 🌐 Projects
-- 💼 <a href="https://github.com/KingCh1ll/landing-page">Landing Page</a> - A NextJS portfolio template, made to impress!
 - 📢 <a href="https://disping.xyz/">DisPing</a> - Start integrating your socials to Discord. The easy way. That's DisPing.
+- 🖱️ <a href="https://github.com/KingCh1ll/fastautoclicker">FastAutoClicker</a> - An open sourced, lightweight, and fast auto clicker designed with a sleek modern interface.
+- 💼 <a href="https://github.com/KingCh1ll/landing-page">Landing Page</a> - A NextJS portfolio template, made to impress!
 - 🎤 <a href="https://github.com/KingCh1ll/scribecord">Scribecord</a> - An easy-to-use text-to-speech, speech-to-text, and recording bot for Discord. And open sourced!
-- 🤖 <a href="https://sparkv.tk/">SparkV</a> - A powerful Discord bot packed with everything you need to make your Discord server great, and with stunning ui!
 
 ...<a href="https://ch1ll.dev/projects">And more</a>!
 
 ## 💪 Tools & Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?perline=6&i=js,ts,html,css,sass,bootstrap,electron,vscode,lua,nodejs,py,bash,react,nextjs,linux,raspberrypi,express,cloudflare" />
+  <img src="https://skillicons.dev/icons?perline=6&i=js,ts,html,css,sass,bootstrap,electron,vscode,lua,nodejs,py,rust,bash,react,nextjs,linux,raspberrypi,cloudflare" />
 </div>
 
 ## 📊 Stats
