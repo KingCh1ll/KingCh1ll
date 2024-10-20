@@ -5,7 +5,6 @@ Hi, I'm ByteSwiper (formally KingCh1ll). I'm a <strong>Software Engineer</strong
 
 ## 🌐 Projects
 - 📢 <a href="https://disping.xyz/">DisPing</a> - Start integrating your socials to Discord. The easy way. That's DisPing.
-- 🖱️ <a href="https://github.com/KingCh1ll/fastautoclicker">FastAutoClicker</a> - An open sourced, lightweight, and fast auto clicker designed with a sleek modern interface.
 - 💼 <a href="https://github.com/KingCh1ll/landing-page">Landing Page</a> - A NextJS portfolio template, made to impress!
 - 🎤 <a href="https://github.com/KingCh1ll/scribecord">Scribecord</a> - An easy-to-use text-to-speech, speech-to-text, and recording bot for Discord. And open sourced!
 
